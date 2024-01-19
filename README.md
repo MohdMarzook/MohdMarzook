@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **data science,data analytics**
 
-- 👨‍💻 All of my projects are available at [https://mohdmarzook.pythonanywhere.com/](https://mohdmarzook.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [mohdmarzook.com](https://mohdmarzook.pythonanywhere.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
