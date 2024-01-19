@@ -1,4 +1,4 @@
-[![MasterHead](https://www.albertopereira.dev/assets/p_image-3bf58db4.gif)](https://mohdmarzook.pythonanywhere.com/)
+[![MasterHead](heading_img.gif)](https://mohdmarzook.pythonanywhere.com/)
 <h1 align="center">Hi 👋, I'm Mohamed Marzook</h1>
 <h3 align="center">I am a computer science engineer</h3>
 
